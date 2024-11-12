@@ -14,7 +14,7 @@
 
 # https://hub.docker.com/_/ubuntu?tab=tags
 # https://wiki.ubuntu.com/Releases
-FROM ubuntu:bionic-20200526
+FROM ubuntu:18.04
 
 
 RUN apt update && apt install -y \
