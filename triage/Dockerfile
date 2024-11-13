@@ -35,7 +35,7 @@ RUN env GOOS=linux \
 
 
 # Stage 2
-FROM alpine:3.15.6
+FROM alpine:3.20.3
 
 # Google Cloud SDK requires python 3.9+ (https://cloud.google.com/python/setup#installing_the_cloud_sdk).
 # update_summaries.sh requires bash.
