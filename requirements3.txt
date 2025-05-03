@@ -8,6 +8,6 @@ parameterized==0.7.4
 PyYAML==5.3
 requests==2.28.1
 ruamel.yaml==0.16.5
-setuptools==44.0.0
+setuptools==78.1.1
 sh==1.12.14
 singledispatch==3.4.0.3
