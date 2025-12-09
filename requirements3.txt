@@ -11,3 +11,4 @@ ruamel.yaml==0.16.5
 setuptools==44.0.0
 sh==1.12.14
 singledispatch==3.4.0.3
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
